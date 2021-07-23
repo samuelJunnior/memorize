@@ -11,6 +11,7 @@
 		EBB95DA726AA3B3200D42133 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = EBB95DA626AA3B3200D42133 /* ContentView.swift */; };
 		EBB95DA926AA3B3500D42133 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = EBB95DA826AA3B3500D42133 /* Assets.xcassets */; };
 		EBB95DAC26AA3B3500D42133 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = EBB95DAB26AA3B3500D42133 /* Preview Assets.xcassets */; };
+		EBB95DB426AA4D0B00D42133 /* CardMaker.swift in Sources */ = {isa = PBXBuildFile; fileRef = EBB95DB326AA4D0B00D42133 /* CardMaker.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -20,6 +21,7 @@
 		EBB95DA826AA3B3500D42133 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		EBB95DAB26AA3B3500D42133 /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
 		EBB95DAD26AA3B3500D42133 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		EBB95DB326AA4D0B00D42133 /* CardMaker.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CardMaker.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -57,6 +59,7 @@
 				EBB95DA826AA3B3500D42133 /* Assets.xcassets */,
 				EBB95DAD26AA3B3500D42133 /* Info.plist */,
 				EBB95DAA26AA3B3500D42133 /* Preview Content */,
+				EBB95DB326AA4D0B00D42133 /* CardMaker.swift */,
 			);
 			path = Memorize;
 			sourceTree = "<group>";
@@ -140,6 +143,7 @@
 			files = (
 				EBB95DA726AA3B3200D42133 /* ContentView.swift in Sources */,
 				EBB95DA526AA3B3200D42133 /* MemorizeApp.swift in Sources */,
+				EBB95DB426AA4D0B00D42133 /* CardMaker.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
