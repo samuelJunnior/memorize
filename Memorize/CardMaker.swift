@@ -13,7 +13,7 @@ struct CardMaker: ViewModifier {
     var isFaceUp: Bool
     
     let cornerRadius: CGFloat = 12
-    let lineWidth: CGFloat = 12
+    let lineWidth: CGFloat = 5
     
     func body(content: Content) -> some View {
         ZStack {
